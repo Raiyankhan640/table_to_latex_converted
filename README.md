@@ -71,8 +71,8 @@ Table-to-Latex-using-Langchain/
 
 ## License
 
-[Your chosen license]
+N/A
 
 ## Author
 
-[Your Name]
+Khan Raiyan Ibne Reza
