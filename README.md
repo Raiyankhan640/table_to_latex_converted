@@ -2,6 +2,11 @@
 
 A Python tool that converts images of tables into compilable LaTeX code using Google's Gemini Pro API and LangChain.
 
+## Demo
+
+### Input Table Image
+![Employment Application Table](./images/demo_input.jpg)
+
 ## Features
 
 - Converts table images to complete, standalone LaTeX documents
