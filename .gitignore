@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# API Keys and Secrets
+.env
